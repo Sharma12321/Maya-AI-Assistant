@@ -26,7 +26,7 @@ Maya is an intelligent AI assistant capable of understanding voice commands and 
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/maya-ai-assistant.git
+git clone https://github.com/Sharma12321/maya-ai-assistant.git
 cd maya-ai-assistant
 
 
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 
 3. Set up your environment variables:
-Create a `.env` file in the project root and add your API keys:
+Add all your API keys in the 'config.py' file:
 WEATHER_API_KEY=your_weather_api_key
 NEWS_API_KEY=your_news_api_key
 GEMINI_API_KEY=your_gemini_api_key
