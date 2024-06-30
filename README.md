@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 
 3. Set up your environment variables:
-Add all your API keys in the 'config.py' file:
+Add all your API keys in the `config.py` file:
 WEATHER_API_KEY=your_weather_api_key
 NEWS_API_KEY=your_news_api_key
 GEMINI_API_KEY=your_gemini_api_key
